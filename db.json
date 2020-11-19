@@ -11,5 +11,7 @@
         "description": "very big and tasty"
     }
     ],
-    "profileName": "Ronald McDonald"
+    "profile": {
+        "name": "Ronald McDonald"
+    }
 }
