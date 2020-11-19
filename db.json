@@ -1,9 +1,15 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+    "products": [
+    {
+        "productId": 1,
+        "name": "hamburger",
+        "description": "very tasty"
+    },
+    {
+        "productId": 2,
+        "name": "bigmac",
+        "description": "very big and tasty"
+    }
+    ],
+    "profileName": "Ronald McDonald"
 }
