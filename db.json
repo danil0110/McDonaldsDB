@@ -1,12 +1,12 @@
 {
     "products": [
     {
-        "productId": 1,
+        "id": 1,
         "name": "hamburger",
         "description": "very tasty"
     },
     {
-        "productId": 2,
+        "id": 2,
         "name": "bigmac",
         "description": "very big and tasty"
     }
