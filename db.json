@@ -86,6 +86,15 @@
             "relatedProducts": [1, 2, 8]
         },
         {
+            "id": 6,
+            "categoryId": 1,
+            "name": "Чізбургер",
+            "description": "Біфштекс із натуральної яловичини, шматочок сиру “Чеддер”, шматочок маринованого огірка та цибуля, заправлені гірчицею і кетчупом, у булочці з пшеничного борошна.",
+            "price": 32,
+            "img": "img/products/burgers/Cheeseburger.jpg",
+            "relatedProducts": [1, 3, 4]
+        },
+        {
             "id": 7,
             "categoryId": 2,
             "name": "Чікен Рол",
